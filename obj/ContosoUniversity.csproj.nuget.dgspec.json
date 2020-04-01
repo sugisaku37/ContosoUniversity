@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sugis\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\SugimuraAkinori\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sugis\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\SugimuraAkinori\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sugis\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\SugimuraAkinori\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\sugis\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\sugis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sugis\\source\\repos\\ContosoUniversity\\obj\\",
+        "projectPath": "C:\\Users\\SugimuraAkinori\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\SugimuraAkinori\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SugimuraAkinori\\source\\repos\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\sugis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SugimuraAkinori\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

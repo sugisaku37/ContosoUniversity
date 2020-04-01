@@ -288,3 +288,5 @@ C:\Users\sugis\source\repos\ContosoUniversity\obj\Debug\netcoreapp3.1\staticweba
 C:\Users\sugis\source\repos\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.dll
 C:\Users\sugis\source\repos\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.pdb
 C:\Users\sugis\source\repos\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.genruntimeconfig.cache
+C:\Users\SugimuraAkinori\source\repos\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\SugimuraAkinori\source\repos\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.genruntimeconfig.cache
